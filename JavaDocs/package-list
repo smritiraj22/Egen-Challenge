@@ -1,0 +1,9 @@
+com.egen.challenge.config
+com.egen.challenge.constants
+com.egen.challenge.dao
+com.egen.challenge.dao.impl
+com.egen.challenge.model
+com.egen.challenge.service
+com.egen.challenge.service.impl
+com.egen.challenge.service.response
+driver
